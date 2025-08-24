@@ -1,0 +1,4 @@
+.vscode/
+.env
+rssagg
+requests.http
